@@ -1,0 +1,170 @@
+*{
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+	font: normal 62.5% Helvetica,Arial,sans-serif;
+}
+/*与网页底部的距离，根据网页改动*/
+.bottom2{
+	background-color: #dd1c1d;
+	min-width: 1200px;
+	margin-top:-20px; 
+}
+.glc_business_center{
+	width: 100%;
+	min-width: 1200px;
+	height: auto;
+	margin: 0;
+	background-color: #dd1c1d;
+	/*text-align: center;*/
+}
+/*banner区域*/
+.glc_business_banner{
+	width: 100%;
+	min-width: 1200px;
+	height: auto;
+	margin: 0;
+	position: relative;
+}
+/*banner*/
+.glc_business_banner_img{
+	width: 100%;
+	min-width: 1200px;
+	margin: auto;
+	position: relative;
+}
+/*main区域*/
+.glc_business_main{
+	background-color: #dd1c1d;
+	width: 100%;
+	min-width: 1200px;
+	height: auto;
+}
+/*邀请方式*/
+.glc_business_main_way{
+	width: 60%;
+	min-width: 720px;
+	height: auto;
+	margin:auto 20%;
+	text-align: center;
+	/*background-color: white;*/
+}
+/*邀请方式描写*/
+.glc_business_main_way_exp_title{
+	display: inline;
+	font-size: 2vw;
+	line-height: 50px;
+	font-weight: 800;
+	color: white;
+	/*text-shadow: 2px 2px 1px #fddb14;*/
+}
+.glc_business_main_way_exp{
+	/*display: block;*/
+	font-size: 1.2vw;
+	line-height: 30px;
+	font-weight: 600;
+	color: white;
+	/*text-shadow: 1px 1px 1px #fddb14;*/
+
+}
+/*瑞泽经纪人*/
+.glc_business_main_way_exp_business{
+	font-size: 1.5vw;
+	font-weight: 800;
+	/*text-shadow: 10px 10px 5px #fddb14;*/
+}
+/*规则一*/
+.glc_business_main_rule_one{
+	width: 60%;
+	min-width: 720px;
+	height: auto;
+	margin: -2px 20%;
+	/*background-color: black;*/
+	position: relative;
+/*	background: url(../img/rule-one.jpg) no-repeat;
+	background-size: 100%;*/
+}
+/*规则描写*/
+.glc_business_main_rule_two_up_text{
+	display: block;
+	position: absolute;
+	z-index: 1;
+	width: 60%;
+	margin: 20px 1%;
+	min-width: 720px;
+	height: auto;
+	font-size: 2vw;
+	color: #2d2e66;
+/*	font-weight: 800;*/
+}
+.glc_business_main_rule_two_up_text_p{
+	line-height: 70px;
+	font-weight: 700;
+}
+/*规则一————图片*/
+.glc_business_main_rule_one_img{
+	width: 100%;
+	height:auto;
+	margin: auto;
+	position: relative;
+}
+/*规则二————上*/
+.glc_business_main_rule_two_up{
+	width: 60%;
+	min-width: 720px;
+	height: auto;
+	margin: -10px 20%;
+	/*background-color: black;*/
+
+}
+/*规则二描述*/
+.glc_business_main_rule_two_up_text_low{
+	margin-top:50px;
+}
+
+/*规则二————上图片*/
+.glc_business_main_rule_two_up_img{
+	width: 100%;
+	height: auto;
+	margin: auto;
+	position: relative;
+}
+/*规则二————下*/
+.glc_business_main_rule_two_low{
+	width: 60%;
+	min-width: 720px;
+	height: auto;
+	margin: -10px 20%;
+	/*background-color: black;*/
+}
+/*规则二下————图片*/
+.glc_business_main_rule_two_low_img{
+	width: 100%;
+	height: auto;
+	margin: auto;
+	position: relative;
+}
+
+/*规则三————奖励说明*/
+.glc_business_main_rule_three{
+	width: 60%;
+	min-width: 720px;
+	height: auto;
+	margin: 6px 20%;
+	/*background-color: black;*/
+}
+/*规则三————奖励说明图片*/
+.glc_business_main_rule_three_img{
+	width: 100%;
+	height: auto;
+	margin: auto;
+	position: relative;
+}
+/*规则三奖励说明*/
+.glc_business_main_rule_two_up_text_three_exp{
+	margin-top: 30px;
+}
+.glc_business_main_rule_two_up_text_three_p{
+	line-height: 47px;
+	font-weight: 700;
+}
